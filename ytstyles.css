@@ -6,6 +6,10 @@
 
 .search-bar {
   font-size: 32px;
+  color: darkgray;
+  border: 1px;
+  border-color: rgb(0, 0, 0);
+  border-style: solid;
 }
 
 .search-bar::placeholder {
