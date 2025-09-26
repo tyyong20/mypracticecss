@@ -5,8 +5,8 @@
 }
 
 .search-bar {
-  font-size: 32px;
-  color: darkgray;
+  font-size: 30px;
+  color: rgb(0, 0, 0);
   border: 1px;
   border-color: rgb(0, 0, 0);
   border-style: solid;
@@ -14,5 +14,5 @@
 
 .search-bar::placeholder {
   font-size: 15px;
-  color: rgb(0, 0, 0);
+  color: darkgray;
 }
