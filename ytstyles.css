@@ -21,3 +21,8 @@
 .image-title, .image-explanation {
 margin-left: 30px;
 }
+
+.video-preview {
+  display: inline-block;
+  width: 300px;
+}
