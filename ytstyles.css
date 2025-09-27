@@ -17,3 +17,7 @@
   font-size: 15px;
   color: darkgray;
 }
+
+.image-title, image-explanation {
+margin-left: 30px;
+}
