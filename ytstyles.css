@@ -28,6 +28,8 @@ width: 200px;}
 .channel-pic {display: inline-block;
 width:50px}
 
+.image-channel-pic {width:50px;}
+
 .video-preview {
   display: inline-block;
   width: 300px;
