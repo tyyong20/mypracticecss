@@ -20,6 +20,7 @@
 
 .image-title, .image-explanation {
 margin-left: 30px;
+margin-top: 0;
 }
 
 .video-title {display: inline-block;
