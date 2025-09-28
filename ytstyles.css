@@ -19,11 +19,18 @@
   color: darkgray;
 }
 
-.image-title, .image-explanation {
+.image-title {
 margin-left: 30px;
 margin-top: 0;
 font-family: roboto;
 font-weight: 400;
+}
+
+.image-explanation {
+  margin-left: 30px;
+  margin-top: 0;
+  font-family: roboto;
+  font-weight: 100;
 }
 
 .video-title {display: inline-block;
