@@ -37,9 +37,11 @@ font-weight: 400;
 width: 200px;}
 .channel-pic {display: inline-block;
 width:50px;
-vertical-align: top;}
+vertical-align: top;
+background-color: grey;}
 
-.image-channel-pic {width:50px;}
+.image-channel-pic {width:50px;
+                   background-color: lightgray;}
 
 .video-preview {
   display: inline-block;
