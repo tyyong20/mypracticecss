@@ -34,14 +34,15 @@ font-weight: 400;
 }
 
 .video-title {display: inline-block;
-width: 200px;}
+width: 200px;
+             background-color: pink;}
 .channel-pic {display: inline-block;
 width:50px;
 vertical-align: top;
-background-color: pink;}
+background-color: lightgray;}
 
 .image-channel-pic {width:50px;
-                   background-color: lightgray;}
+                   }
 
 .video-preview {
   display: inline-block;
