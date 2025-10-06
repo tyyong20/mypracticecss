@@ -1,13 +1,16 @@
 .header {display: flex;
         flex-direction: row;}
 
-.left-section {background-color: lightblue;}
+.left-section {background-color: lightblue;
+              width: 200px;}
 
 .middle-section {background-color: lightpink;
                 margin-left: 70px;
-                margin-right: 50px;}
+                margin-right: 50px;
+                flex: 1;}
 
-.right-section {background-color: lightblue;}
+.right-section {background-color: lightblue;
+                width: 250px;}
 
 .search-bar {
   font-size: 30px;
