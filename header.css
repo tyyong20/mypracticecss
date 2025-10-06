@@ -1,6 +1,6 @@
 .header {display: flex;
         flex-direction: row;
-        height: 55px;}}
+        height: 55px;}
 
 .left-section {background-color: lightblue;
               width: 200px;}
