@@ -6,3 +6,16 @@
 .middle-section {background-color: lightpink;}
 
 .right-section {background-color: lightblue;}
+
+.search-bar {
+  font-size: 30px;
+  color: rgb(0, 0, 0);
+  border: 1px;
+  border-color: rgb(0, 0, 0);
+  border-style: solid;
+}
+
+.search-bar::placeholder {
+  font-size: 15px;
+  color: darkgray;
+}
