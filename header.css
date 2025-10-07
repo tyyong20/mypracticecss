@@ -25,7 +25,8 @@
                 flex: 1;
                 max-width: 500px;}
 
-.search-icon {height: 24px;}
+.search-icon {height: 24px;
+             padding-left: 20px;}
 
 .right-section {background-color: lightblue;
                 width: 200px;}
