@@ -25,7 +25,7 @@
                 flex: 1;
                 max-width: 500px;}
 
-.search-icon {height: 10px;}
+.search-icon {height: 20px;}
 
 .right-section {background-color: lightblue;
                 width: 200px;}
@@ -36,7 +36,7 @@
               border: 1px;
               border-color: rgb(0, 0, 0);
               border-style: solid;
-                height: 55px;
+                height: 50px;
 }
 
 .search-bar::placeholder {
