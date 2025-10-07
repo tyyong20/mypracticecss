@@ -4,6 +4,8 @@
         justify-content: space-between;}
 
 .left-section {background-color: lightblue;
+              display: flex;
+              flex-direction: row;
               width: 150px;}
 
 .middle-section {background-color: lightpink;
