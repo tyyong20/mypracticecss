@@ -16,6 +16,10 @@
 .youtube-logo {height: 24px;}
 
 .middle-section {background-color: lightpink;
+                display: flex;
+                  flex-direction: row;
+                  align-items: center;
+                  width: 150px;
                 margin-left: 70px;
                 margin-right: 35px;
                 flex: 1;
