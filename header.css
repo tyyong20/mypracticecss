@@ -6,6 +6,7 @@
 .left-section {background-color: lightblue;
               display: flex;
               flex-direction: row;
+                justify-content: center;
               width: 150px;}
 
 .hamburger-icon {height: 20px;}
