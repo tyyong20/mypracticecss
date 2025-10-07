@@ -28,7 +28,9 @@
 .search-icon {height: 24px;
              padding-left: 20px;
               border-color: rgb(0, 0, 0);
-                border-style: solid;}
+                border-style: solid;
+              border: 1px;
+             height: 50px;}
 
 .right-section {background-color: lightblue;
                 width: 200px;}
